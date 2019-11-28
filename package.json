@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-express4.x-mongdb",
+  "version": "1.0.0",
+  "description": "nodejs-express4.x-mongdb",
+  "main": "01.js",
+  "dependencies": {
+    "cookie-parser": "^1.4.0",
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "formidable": "^1.0.17",
+    "express-session": "^1.11.3",
+    "mongodb": "^2.0.43"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ChenZhaoGuang",
+  "license": "ISC"
+}
