@@ -9,7 +9,7 @@
     "express": "^4.13.3",
     "formidable": "^1.0.17",
     "express-session": "^1.11.3",
-    "mongodb": "^2.0.43"
+    "mongodb": "^3.6.1"
   },
   "devDependencies": {},
   "scripts": {
